@@ -1,0 +1,11 @@
+## M<sup>*</sup>-Index
+Usage: `[dataFile] [pname] [indexFile] [costFile] [maxDistance] [pivotNumber] [blockSize] [queryFile]`
+Example:` synthetic.txt pivot_all_synthetic.txt m-synthetic-index m-synthetic-cost.txt 10000 5 4096 synthetic_query.txt`
+- dataFile: the path of source data file
+- pname: the path of pivot file
+- indexFile: the path to store the generated index file
+- costFile: the path to store the running cost
+- maxDistance: the max distance between objects in source data
+- pivotNumber: the number of pivots
+- blockSize: the size of block which store the node of B+Tree and the unit of size is KB
+- queryFile: the path of input query data file
