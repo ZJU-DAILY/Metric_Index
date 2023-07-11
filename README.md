@@ -21,3 +21,5 @@ All the codes are implemented in C++. Please cite the following paper if you use
 
 ## Contact
 For any question about this work, pleas feel free to contact with Yunjun Gao and Lu Chen (zjudbl2020@gmail.com).
+
+Note that, recently the SISAP Metric Space Library has updated the website. The new address can be achieved by entering the 'Metric Space Library' link of https://www.sisap.org/.
